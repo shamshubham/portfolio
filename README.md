@@ -54,8 +54,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
    git clone https://github.com/<YOUR USERNAME>/portfolio-website.git
    ```
 
-````
-
 2. **Navigate to the project directory**
 
    ```bash
