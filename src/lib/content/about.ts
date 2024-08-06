@@ -15,5 +15,5 @@ export const aboutSection: AboutSectionType = {
       'Redux',
     ],
   },
-  img: '/shubham-verma.JPG',
+  img: '/shubham-verma.jpg',
 };
