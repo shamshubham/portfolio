@@ -1,5 +1,5 @@
 <h1 align="center">
-  shubhamverma.vercel.app
+  vermashubham.vercel.app
 </h1>
 <p align="center">
   A portfolio website built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted on <a href="https://vercel.com/" target="_blank">Vercel</a>.
@@ -96,6 +96,3 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ## Show Your Support
 
 Give a ⭐️ if you liked this project!
-
-[Scroll to Top](#shubhamverma-vercelapp)
-````
