@@ -16,17 +16,17 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       img: 'https://raw.githubusercontent.com/shamshubham/forkify-application/main/screenShots/Capture.JPG',
       tags: ['JS', 'HTML', 'CSS', 'REST APIs'],
     },
-    {
-      id: getId(),
-      name: 'Equinix Portal',
-      description:
-        'Portal for managing customers and facilitating multi-cloud connectivity through the Open Cloud Exchange.',
-      tasks:
-        'I collaborated with my teammates to strategically plan project milestones, develop the Equinix portal, establish a consistent design system, and integrate secure authentication for managing customer access and connectivity services.',
-      url: 'https://github.com/shamshubham',
-      img: 'https://user-images.githubusercontent.com/68834718/279476369-2f69466a-71db-4da0-9afd-04f8f0efb621.jpeg',
-      tags: ['ReactJs', 'NodeJs', 'Express', 'MongoDB'],
-    },
+    // {
+    //   id: getId(),
+    //   name: 'Equinix Portal',
+    //   description:
+    //     'Portal for managing customers and facilitating multi-cloud connectivity through the Open Cloud Exchange.',
+    //   tasks:
+    //     'I collaborated with my teammates to strategically plan project milestones, develop the Equinix portal, establish a consistent design system, and integrate secure authentication for managing customer access and connectivity services.',
+    //   url: 'https://github.com/shamshubham',
+    //   img: 'https://user-images.githubusercontent.com/68834718/279476369-2f69466a-71db-4da0-9afd-04f8f0efb621.jpeg',
+    //   tags: ['ReactJs', 'NodeJs', 'Express', 'MongoDB'],
+    // },
     {
       id: getId(),
       name: 'Z-GenCue',
