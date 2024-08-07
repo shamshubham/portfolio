@@ -14,7 +14,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       url: 'https://github.com/shamshubham/forkify-application',
       repo: 'https://github.com/shamshubham/forkify-application',
       img: 'https://raw.githubusercontent.com/shamshubham/forkify-application/main/screenShots/Capture.JPG',
-      tags: ['JS', 'HTML', 'CSS', 'APIs'],
+      tags: ['JS', 'HTML', 'CSS', 'REST APIs'],
     },
     {
       id: getId(),
@@ -23,9 +23,9 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'Portal for managing customers and facilitating multi-cloud connectivity through the Open Cloud Exchange.',
       tasks:
         'I collaborated with my teammates to strategically plan project milestones, develop the Equinix portal, establish a consistent design system, and integrate secure authentication for managing customer access and connectivity services.',
-      url: 'https://www.integraleads.xyz/',
+      url: 'https://github.com/shamshubham',
       img: 'https://user-images.githubusercontent.com/68834718/279476369-2f69466a-71db-4da0-9afd-04f8f0efb621.jpeg',
-      tags: ['ReactJs', 'NodeJs', 'Express'],
+      tags: ['ReactJs', 'NodeJs', 'Express', 'MongoDB'],
     },
     {
       id: getId(),
@@ -34,9 +34,15 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'A streamlined to-do app for managing and prioritizing your tasks effortlessly.',
       tasks:
         "I comprehensively understood the project's requirements and developed a to-do application. This included designing an intuitive user interface for the frontend, setting up the backend infrastructure with a database, and implementing features for task management, reminders, and prioritization., I understood the client's requirements and executed a plan to develop and design an e-commerce platform, including the frontend UI, backend setup with database, APIs, and integration with payment platforms.",
-      url: 'https://www.getlifegard.com/',
-      img: 'https://i.postimg.cc/zXFz7VvF/Screenshot-2024-05-19-at-12-50-34-PM.png',
-      tags: ['NextJs 14', 'JavaScript', 'TailwindCSS'],
+      url: 'https://github.com/shamshubham/todo-app',
+      img: 'https://raw.githubusercontent.com/shamshubham/todo-app/master/ss/Capture.JPG',
+      tags: [
+        'NextJs',
+        'JavaScript',
+        'TailwindCSS',
+        'Heroicons',
+        'Local Storage',
+      ],
     },
     {
       id: getId(),
@@ -47,7 +53,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       url: 'https://github.com/shamshubham/mapty',
       repo: 'https://github.com/shamshubham/mapty',
       img: 'https://raw.githubusercontent.com/shamshubham/mapty/master/screenShots/Capture.JPG',
-      tags: ['JS', 'HTML', 'CSS'],
+      tags: ['JS', 'HTML', 'CSS', 'Geolocation API', 'Leaflet'],
     },
     {
       id: getId(),
@@ -59,7 +65,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       url: 'https://github.com/shamshubham/blog-website-design-react',
       repo: 'https://github.com/shamshubham/blog-website-design-react',
       img: 'https://raw.githubusercontent.com/shamshubham/blog-website-design-react/main/screenShots/Capture.JPG',
-      tags: ['ReactJs', 'NodeJs', 'HTML', 'CSS'],
+      tags: ['ReactJs', 'NodeJs', 'HTML', 'CSS', 'MongoDB'],
     },
   ],
 };
