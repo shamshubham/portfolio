@@ -13,9 +13,9 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/frontend-dark.json',
       },
       points: [
-        'Building full-stack web applications using Next.js with TypeScript, TailwindCSS, Prisma',
-        'Developing responsive single-page applications using React.js',
-        'Creating RESTful APIs using Express for backend development',
+        'Building full-stack web applications using ReactJs, NextJs, TailwindCSS, NodeJs, ExpressJs, PostgreSQL, MongoDB, Redis',
+        'Developing responsive single-page applications using React.js and NextJs',
+        'Creating RESTful APIs using Express for backend development using NodeJs with MongoDB and PostgreSQL',
       ],
       softwareSkills: [
         // iconify icons: https://icon-sets.iconify.design/
@@ -23,19 +23,17 @@ export const skillsSection: SkillsSectionType = {
         { name: 'CSS-3', icon: 'vscode-icons:file-type-css' },
         // { name: 'sass', icon: 'vscode-icons:file-type-sass' },
         { name: 'javaScript', icon: 'vscode-icons:file-type-js-official' },
-        {
-          name: 'typeScript',
-          icon: 'vscode-icons:file-type-typescript-official',
-        },
+        { name: 'typeScript', icon: 'vscode-icons:file-type-typescript-official' },
         { name: 'nodejs', icon: 'logos:nodejs-icon' },
         { name: 'reactjs', icon: 'logos:react' },
         { name: 'nextjs', icon: 'logos:nextjs-icon' },
-        { name: 'prisma', icon: 'vscode-icons:file-type-prisma' },
+        // { name: 'prisma', icon: 'vscode-icons:file-type-prisma' },
         // { name: 'angularjs', icon: 'logos:angular-icon' },
         { name: 'tailwindcss', icon: 'logos:tailwindcss-icon' },
         { name: 'redux', icon: 'logos:redux' },
         { name: 'mongoDB', icon: 'vscode-icons:file-type-mongo' },
-        { name: 'sql', icon: 'vscode-icons:file-type-sql' },
+        { name: 'postgresql', icon: 'vscode-icons:file-type-pgsql' },
+        { name: 'redis', icon: 'logos:redis' },
       ],
     },
     // {

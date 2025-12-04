@@ -6,8 +6,8 @@ export const heroSection: HeroSectionType = {
   title: 'Shubham Verma.',
   tagline: 'I am a full stack developer.',
   description:
-    "I am a software engineer, currently looking for a new role. I'am passionate about building product that solve real-world problems. I have experience in building web applications. I am always looking for new opportuinities to learn and grow.",
-  specialText: 'Currently looking for a full-time job, internship & freelance.',
+    "I’m a software engineer with a deep enthusiasm for product development and emerging technologies. I enjoy crafting scalable, user-focused applications and constantly experimenting with new tools and ideas. I’m driven by curiosity and the desire to build things that truly make a difference.",
+  specialText: 'Currently looking for a full-time job.',
   cta: {
     title: 'see my resume',
     url: `/${resumeFileName}`,

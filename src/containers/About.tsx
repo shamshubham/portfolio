@@ -24,10 +24,12 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi my name is Shubham Verma, a full stack developer who wants to
-            explore every tech stack and loves travelling.
-            <br /> My main focus these days is building fast and scalable
-            server-side applications and finding a decent job or internship.
+            Hi, I'm Shubham Verma, a full-stack developer passionate about exploring 
+            new technologies and building impactful products. I love travelling, learning, 
+            and constantly improving my skills.
+            <br /> These days, I'm focused on creating fast, scalable server-side applications
+            and working toward securing a great job where I can grow and 
+            contribute meaningfully.
           </p>
 
           {list && (

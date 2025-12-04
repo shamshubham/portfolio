@@ -4,6 +4,32 @@ export const experienceSection: ExperienceSectionType = {
   title: "where i've worked",
   experiences: [
     {
+      company: 'MyCloudpulse Technology',
+      companyUrl: 'https://mycloudpulse.com/',
+      role: 'Software Developer',
+      started: 'november 2024',
+      upto: 'present',
+      tasks: [
+        'Developed web applications using ReactJs, NextJs, TailwindCSS, NodeJs, NestJs, ExpressJs, PostgreSQL, MongoDB, Redis',
+        "Developed RESTful API's using ExpressJs, NestJs for backend development using NodeJs with MongoDB, PostgreSQL and Redis",
+        'Developed frontend applications using ReactJs, NextJs, JavaScript, TypeScript, Redux, TailwindCSS, RAG, OpenAI',
+        'Deployed web applications using AWS, DigitalOcean, Vercel, Render',
+      ],
+    },
+    {
+      company: 'Self Employed',
+      companyUrl: 'https://vermashubham.vercel.app/',
+      role: 'Full Stack Developer',
+      started: 'january 2024',
+      upto: 'november 2024',
+      tasks: [
+        'Developed web applications using ReactJs, NextJs, TailwindCSS, NodeJs, NestJs, ExpressJs, PostgreSQL, MongoDB, Redis',
+        "Developed RESTful API's using ExpressJs, NestJs for backend development using NodeJs with MongoDB, PostgreSQL and Redis",
+        'Developed frontend applications using ReactJs, NextJs, JavaScript, TypeScript, Redux, TailwindCSS, RAG, OpenAI',
+        'Deployed web applications using AWS, DigitalOcean, Vercel, Render',
+      ],
+    },
+    {
       company: 'DXC Technology',
       companyUrl: 'https://dxc.com/in/en',
       role: 'Analyst II Infrastructure Services',
